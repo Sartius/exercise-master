@@ -1,0 +1,24 @@
+.InputForm {
+    width: 60%;
+    display: inline-block;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+}
+
+.SubmitButton {
+    background-color: red;
+    color: 'white';
+    font: 'inherit';
+    border: '1px solid blue';
+    padding: '8px';
+}
+
+.Label {
+    display: inline-block;
+    width: 6em;
+    position: relative;
+    top: -3em;
+  }
